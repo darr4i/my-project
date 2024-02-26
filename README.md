@@ -18,4 +18,3 @@ IM-21
 girl-band
 
 This is our project
-
