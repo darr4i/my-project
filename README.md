@@ -1,10 +1,5 @@
 # my-project
 
-## Group
-IM-21
-## Team
-girl-band
-
 ## Software architecture 
 Lab work #1
 Topic: Git and HTTP server
