@@ -6,10 +6,10 @@
 
 
 
-
-
-
-
+## Authors
+- Bondar Antonina 
+- Dvoretska Anastasia
+- Rabiichuk Daria
 
 
 ## Group
@@ -18,3 +18,4 @@ IM-21
 girl-band
 
 This is our project
+
