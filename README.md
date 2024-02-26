@@ -1,5 +1,10 @@
 # my-project
 
+## Group
+IM-21
+## Team
+girl-band
+
 ## Software architecture 
 Lab work #1
 Topic: Git and HTTP server
@@ -10,5 +15,12 @@ writing the first code in Go.
 - Bondar Antonina 
 - Dvoretska Anastasia
 - Rabiichuk Daria
+
+
+## Group
+IM-21
+## Team
+girl-band
+
 
 
