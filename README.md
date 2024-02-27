@@ -16,6 +16,3 @@ writing the first code in Go.
 IM-21
 ## Team
 girl-band
-
-
-
